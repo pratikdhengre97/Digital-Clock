@@ -1,1 +1,1 @@
-# Digital-Clock
+Digital-Clock is a project which displays the current time according to the Indian Standard Time. This project uses javascript methods to fetch the time according to the zone. The html provides the structure, css provides the design and javascript gives the logic of the clock.
